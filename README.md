@@ -2,7 +2,6 @@
 
 This image compiles gRPC from source to:
 - Enhance compatibility
-- Serve as baseline with OnnxRuntimes
 - Compile .proto files
 - Compile grpc_plugins
 
